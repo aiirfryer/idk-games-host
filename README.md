@@ -1,2 +1,2 @@
 # 2311 games host
-forgot to change the repo name but yeah source code for all of the 2311 games. these games are not mine and i just downloaded them from html-games v2 and hosted them on vercel
+forgot to change the repo name but yeah source code for all of the 2311 games. this is also for if i somehow lose my google account and stuff and 2311 games i can just download the games from here and yeah
